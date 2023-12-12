@@ -1,3 +1,5 @@
+Making changes to trigger the build event per the instructions in this file.
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
